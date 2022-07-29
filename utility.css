@@ -1,0 +1,46 @@
+.headerContent:hover {
+    color:yellow;
+    cursor:pointer;
+}
+
+.imageFst:hover{
+    border:5px solid yellow;
+}
+
+.imageFstCaptionFst:hover{
+    color:red;
+    cursor:pointer;
+}
+.imageFstCaptionScd:hover{
+    color:red;
+    cursor:pointer;
+}
+
+.overview:hover{
+    border:5px solid yellow;
+    text-decoration:underline;
+    color:white;
+}
+
+.imageScd:hover{
+    border:5px solid yellow;
+}
+
+.imageScdCaptionFst:hover{
+    color:red;
+    cursor:pointer;
+}
+.imageScdCaptionScd:hover{
+    color:red;
+    cursor:pointer;
+}
+
+.left:hover{
+    border:5px solid red;
+    color:yellow;
+}
+
+.right:hover{
+    border:5px solid red;
+    color:yellow;
+}

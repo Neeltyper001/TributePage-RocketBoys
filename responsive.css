@@ -1,0 +1,396 @@
+@media screen and (max-width:1507px){
+    .writtenBy {
+        margin-left: 32vh;
+        }
+        .headerContent {
+        height: 5vh;
+        }
+
+        .imageFstContainer {
+        height: 30vh;
+        }
+
+        .imageFstCaptionScd {
+        padding-left: 2vw;
+        }
+        .imageScdContainer {
+        height: 30vh;
+        }
+
+        .imageScd {
+        margin-left: 1vw;
+        }
+
+        .imageScdCaptionScd {        
+        font-size: xx-large;
+        }
+
+        .imageScdCaptionFst {        
+        font-size: x-large;
+        }
+
+        .first {        
+        height: 40vh;
+        }
+
+        .left {        
+        width: 36vw;
+        }
+
+        .right {
+        width: 40vw;
+        }
+}
+
+@media screen and (max-width:1389px){
+    .right {        
+        width: 41vw;            
+        font-size: 29px;
+        }
+
+        .left {    
+        font-size: 29px;
+        }
+}
+
+@media screen and (max-width:1150px){
+    .imageFstCaptionFst {        
+        font-size: x-large;
+        }
+        .imageFstCaptionScd {        
+        font-size: x-large;
+        }
+        .overview {        
+        margin: 2vh 10vh;
+        height: 18vh;
+        font-size: 22px;
+        }
+    } 
+        
+        @media screen and (max-width:977px){
+
+            .first{
+                height: 32vh;
+            }
+
+            .left {
+                font-size: 22px;
+                width: 24vw;
+                }
+
+            .right {                
+                width: 27vw;
+                font-size: 22px;
+                }
+
+            .imageScd {
+                margin-left: 10vw;
+                }
+
+                .imageScdCaptionScd{
+                    font-size: x-large;
+                }
+
+                .imageScdContainer {
+                    height: 22vh;
+                    width: 28vw;
+                    }
+
+                    .imageFstContainer {
+                        width: -8vw;
+                        height: 22vh;
+                      }
+
+                      .overview {
+                        margin: 2vh 0vh;
+                        height: 22vh;
+                        font-size: 19px;
+                        }
+                        
+
+            .headerContent {
+                height: 2vh;
+                font-size: x-large;
+                  }
+
+                  .overview {
+                    padding: 1vh 3vh;
+                    width: 24vw;
+                    }
+        }
+
+
+@media screen and (max-width:810px){
+    .headerContent {
+        height: 4vh;
+        font-size: x-large;
+        }
+        .writtenBy {
+        margin-left: 28vh;
+        }
+
+        .imageFstContainer {
+            height: 22vh;
+            }
+
+            .overview {
+            margin: 1vh 3vh;
+            width: 53vw;
+            font-size: 19px;
+            }
+
+            .imageFstCaptionFst {
+            font-size: large;
+            }
+
+            .imageFstCaptionScd {
+            font-size: large;
+            padding-left: 2vw;
+            }
+
+            .imageScdCaptionFst {
+            font-size: large;
+            }
+
+            .imageScdCaptionScd {
+            font-size: large;
+            }
+
+            .imageScdContainer {
+            height: 23vh;
+            }
+
+            .imageScd {
+            margin-left: 0vw;
+            }
+
+            .left {
+            width: 38vw;
+            font-size: 32px;
+            padding: 3vw;
+            }
+
+            .right {
+            width: 39vw;
+            font-size: 31px;
+            padding: 3vw;
+            }
+
+            .briefing {
+            margin-top: 0vh;
+            }
+
+            .first {
+            height: 50vh;
+            height: 31vh;
+            }
+}
+
+
+
+@media screen and (max-width:500px){
+
+    .headerContent{
+        height:4vh;
+        background-color:black;
+        color:white;
+        padding:2vh 0vh;
+        text-align:center;
+        font-size:small;
+        font-family: 'Edu NSW ACT Foundation', cursive;
+    }
+
+    .writtenBy{
+        margin:0vh;
+    }
+
+    .first{
+        height:51vh;
+    }
+
+    .imageFstContainer{
+        height:17vh;
+    }
+
+    .imageFst:hover{
+        border:3px solid yellow;
+    }
+
+    .imageFst{
+        border:3px solid white;
+    }
+
+    .imageFstCaptionFst{
+        font-size:small;
+        padding-left:2vw;
+    }
+
+    .imageFstCaptionScd{
+        font-size:11px;
+        padding-left:2vw;
+    }
+
+    .overview:hover{
+        border:3px solid yellow;
+    }
+    .overview{
+        margin: 1vh 3vh;
+        padding: 2vh 1vh;
+        width: 63vw;
+        height: 11vh;
+        font-size: 11px;
+        border:2px solid white;
+    }
+    .imageScd:hover{
+        border: 3px solid yellow;
+    }
+    .imageScd {
+        margin-left: 1vw;
+        width: 12vw;
+        border:3px solid white;
+        }
+
+    .imageScdCaptionFst {
+        font-size: small;
+        padding-right:2vw
+        }
+    .imageScdCaptionScd {
+        font-size: 11px;
+        padding-right:2vw;
+        }
+    .imageScdContainer {
+        height: 17vh;
+        }
+    
+        .left:hover{
+            border:3px solid red;
+            color: yellow;
+        }
+    
+    .left{
+        border: 3px solid white;
+        width:34vw;
+        font-size:13px;
+        padding:3vw;
+    }
+    
+    .right:hover{
+        border:3px solid red;
+        color:yellow;
+    }
+    
+    .right {
+        width: 39vw;
+        font-size: 13px;
+        border: 3px solid white;
+        padding:3vw;
+        }
+    .briefing {
+        margin-top: -30vh;
+        }
+
+        .footer {
+            padding: 7vh 0vh;
+            font-size: x-large;
+            height: 0vh;
+            margin-top: 6vh;
+            }
+}
+
+@media screen and (max-width:390px){
+
+           
+
+    .headerContent {
+        font-size: 11px;
+        }
+    
+    .overview {
+        width: 64vw;
+        height: 17vh;
+        }
+
+    .imageScd{
+        margin-left: -1vw;
+        width: 14vw;
+    }
+
+    .imageScdCaptionFst{
+        font-size: 12px;
+        margin-top: 1vh;
+    }
+
+    .imageScdCaptionScd{
+        margin-top:1vh;
+    }
+
+    .briefing {
+        margin-top: -24vh;
+        }
+
+        .left {                    
+            width: 35vw;
+            padding: 3vw;
+            }
+            .right {
+            width: 40vw;
+            padding: 3vw;
+            }
+}
+
+@media screen and (max-width:360px){
+
+    .headerContent {
+        font-size: 11px;
+        }
+
+        .overview {
+            height: 18vh;
+            padding:1vh;
+            }
+
+            .imageFstContainer {
+                height: 17vh;
+                height: 12vh;
+                }
+                .imageScdContainer {
+                height: 17vh;
+                height: 12vh;
+                }
+
+    .imageScdCaptionFst {
+                padding-right: 0vw;
+                margin-top: 1vh;
+          
+            }
+    .imageScdCaptionScd {
+                margin-top: 2vh;
+                }
+            
+                .first {
+                    height: 48vh;
+                    }
+                               
+                 .left {
+                        width: 36vw;
+                        padding: 3vw;
+                        }
+
+                 .right {
+                        width: 37vw;
+                        padding: 3vw;
+                        font-size:12px;
+                        }
+
+                    .footer{
+                        padding: 4vh 0vh;
+                        font-size: large;
+                        margin-top: 4vh;
+                    }
+            
+            }
+
+        
+                
+            
+  

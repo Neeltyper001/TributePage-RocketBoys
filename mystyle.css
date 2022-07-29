@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@700&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+body{
+    background-image: url("/images/blackBackground.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.headerContent{
+    height:7vh;
+    background-color:black;
+    color:white;
+    padding:4vh 0vh;
+    text-align:center;
+    font-size:xx-large;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.writtenBy{
+    margin-left:100vh;
+}
+
+.first{
+    display:flex;
+    height:50vh;
+    justify-content:space-between;
+    
+}
+.imageFstContainer{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+     height:42vh;
+}
+
+.imageFst{
+    width:20vw;
+    border:5px solid white;
+}
+
+.imageFstCaptionFst{
+    align-self:center;
+    font-size:xx-large;
+    color:white;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.imageFstCaptionScd{
+    align-self: center;
+    color:white;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size:xx-large;
+
+}
+
+.overview{
+    color:white;
+    margin:10vh 10vh;
+    padding:4vh 4vh;
+    width:50vw;
+    height:15vh;
+    border:5px solid white;
+    font-size: 25px;
+    background-image:url('/images/solidBlack.jpeg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.imageScdContainer{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:15vw;
+    height:42vh;
+}
+.imageScd{
+    margin-left:2vw;
+    width:13vw;
+    border:5px solid white;
+}
+
+.imageScdCaptionFst{
+    align-self:center;
+    font-size:xx-large;
+    color:white;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+
+.imageScdCaptionScd{
+    align-self: center;
+    color:white;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size:x-large;
+
+}
+
+.briefing{
+    display:flex;
+    justify-content:space-between;
+    color:white;
+}
+
+.left{
+    width:35vw;
+    align-self:center;
+    padding:4vh;
+    font-size:30px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    border:5px solid white;
+    background-image:url('/images/solidBlack.jpeg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.right{
+    width:38vw;
+    padding:4vh;
+    align-self:center;
+    font-size:30px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    border:5px solid white;
+    background-image:url('/images/solidBlack.jpeg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.footer{
+    background-color:black;
+    padding:5vh 0vh;
+    font-size:xx-large;
+    color:white;
+    height:3vh;
+    text-align:center;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+
+a:hover {
+    color:cyan;
+}
+
+a{
+    color:white;
+    text-decoration:underline;
+
+}
+
+.footer:hover{
+    color:yellow;
+}
+
+
